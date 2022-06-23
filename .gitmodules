@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "itraxR"]
+	path = itraxR
+	url = https://github.com/tombishop1/itraxr
+	shallow = true
+	registered = true
